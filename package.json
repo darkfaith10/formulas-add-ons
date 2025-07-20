@@ -1,0 +1,35 @@
+{
+  "name": "chem-reaction",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "html2canvas": "^1.4.1",
+    "katex": "^0.16.22",
+    "kekule": "^1.0.2",
+    "konva": "^9.3.20",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-katex": "^3.1.0",
+    "react-konva": "^19.0.6",
+    "react-select": "^5.10.2",
+    "react-use-image": "^0.2.3"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.25.0",
+    "@types/react": "^19.1.2",
+    "@types/react-dom": "^19.1.2",
+    "@vitejs/plugin-react": "^4.4.1",
+    "eslint": "^9.25.0",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "eslint-plugin-react-refresh": "^0.4.19",
+    "globals": "^16.0.0",
+    "vite": "^6.3.5"
+  }
+}
